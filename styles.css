@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Mooli', sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    color: black;
+}
+
+.nosotros{
+    line-height: 3em;
+}
+
+.contactenos{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#login{
+    color: #fff;
+}
+
+footer{
+    color: white;
+}

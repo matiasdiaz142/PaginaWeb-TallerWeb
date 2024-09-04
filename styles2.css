@@ -1,0 +1,58 @@
+body {
+    font-family: 'Mooli', sans-serif;
+    background-color: #b8b8b8;
+    margin: 0;
+    padding: 0;
+}
+
+span{
+    color: white;
+}
+
+main {
+    max-width: 1500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+video, iframe {
+    width: 100%;
+}
+
+.card{
+    margin-bottom: 5px;
+}
+
+footer{
+    color: white;
+}
+
+th, td {
+    padding: 8px;
+    border: 2px solid black;
+}
+
+.card {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    max-width: 300px;
+}
+
+.grupo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#contacto{
+    margin-top: 10px;
+    border-top: 2px solid black;
+}
