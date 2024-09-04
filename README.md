@@ -11,4 +11,4 @@ Esta es una pagina web que hice para una materia de la universidad.
 
 ## Cómo Visualizar el Proyecto
 
-Puedes ver mi portafolio en vivo en [aquí]([https://tu-dominio.com](https://matiasdiaz142.github.io/PaginaWeb-TallerWeb/)).
+Puedes ver mi portafolio en vivo en [aquí](https://matiasdiaz142.github.io/PaginaWeb-TallerWeb/).
